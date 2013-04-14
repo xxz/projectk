@@ -28,8 +28,8 @@ if __name__ == '__main__':
     print data_content[5]
         
     #for line in data_content:
-     #   line.strip().replace('\n', '').strip()#.replace('CREATE ', '\n CREATE ')
-      #  lines += line
+    #   line.strip().replace('\n', '').strip()#.replace('CREATE ', '\n CREATE ')
+    #  lines += line
         
     #lines.replace('\n', '')
     
