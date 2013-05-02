@@ -9,7 +9,7 @@ from config import PKConfig
 
 if __name__ == '__main__':
 
-    configure_file = PKConfig('D:\workspace\projectk\config.xml')
+    configure_file = PKConfig('config.xml')
     parameter = configure_file.PK_parse_config()
     
     #define source file and destination file
